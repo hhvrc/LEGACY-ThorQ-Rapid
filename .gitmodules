@@ -1,0 +1,3 @@
+[submodule "ThorQ-Rapid/ParamLib"]
+	path = ThorQ-Rapid/ParamLib
+	url = https://github.com/ZepherDev/ParamLib
